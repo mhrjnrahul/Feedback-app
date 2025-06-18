@@ -1,0 +1,9 @@
+div {
+  padding: 20px;
+  max-width: 600;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
